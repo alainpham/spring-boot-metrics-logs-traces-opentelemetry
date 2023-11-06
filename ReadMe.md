@@ -12,7 +12,8 @@ This project is an example to show how to use the grafana-opentelemetry-starter 
 
 This video highlights how to easily correlate between metrics logs and traces
 
-<video  src="media/demo.mp4"></video>
+[Video](media/demo.mp4)
+
 
 
 ## Steps to instrument Spring Boot 3 application
