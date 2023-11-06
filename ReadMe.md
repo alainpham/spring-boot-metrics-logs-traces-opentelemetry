@@ -12,7 +12,7 @@ This project is an example to show how to use the grafana-opentelemetry-starter 
 
 This video highlights how to easily correlate between metrics logs and traces
 
-[Video](media/demo.mp4)
+![demo](media/output.gif)
 
 
 
